@@ -22,7 +22,9 @@ In total, everything I know is
   - css
   - html
 
-
+### recently (5/18/2022)
+ - some python
+ - using json/text files with python
 
 
 
